@@ -1,3 +1,4 @@
 {
-  "retention10": "active"
+  "retention10": "inactive",
+  "force": true
 }
